@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F0F0F0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.logoimage {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.title {
+    text-align: center;
+    font-size: 36px;
+    color: #333333;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 24px;
+    color: #666666;
+}
+
+.normal_text {
+    text-align: center;
+    font-size: 16px;
+}
+
+.download-button {
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    width: 300px;
+    height: 60px;
+    margin: 40px auto;
+    background-color: #ff5100;
+    border: none;
+    border-radius: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    filter: drop-shadow(5px 5px 5px #969696);
+}
+
+.footer {
+    text-align: center;
+    font-size: 16px;
+    color: #999999;
+}
